@@ -1,0 +1,14 @@
+C:\prog\consoleHomography\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\dll\x86\OpenCvSharpExtern.dll
+C:\prog\consoleHomography\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\dll\x86\opencv_ffmpeg400.dll
+C:\prog\consoleHomography\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\dll\x64\OpenCvSharpExtern.dll
+C:\prog\consoleHomography\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\dll\x64\opencv_ffmpeg400_64.dll
+C:\prog\consoleHomography\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+C:\prog\consoleHomography\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+C:\prog\consoleHomography\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+C:\prog\consoleHomography\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\prog\consoleHomography\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\prog\consoleHomography\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\prog\consoleHomography\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+C:\prog\consoleHomography\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\prog\consoleHomography\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\prog\consoleHomography\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
